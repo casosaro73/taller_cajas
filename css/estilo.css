@@ -1,0 +1,66 @@
+div{
+	border: 3px solid #C00;
+	}
+article{
+	border:3px solid #F00;
+}
+section
+{
+	border: 3px solid #000;
+}
+nav{
+	border: 3px solid #00A;
+	width: 200px;
+	position: absolute;
+}
+.especial
+{
+	margin-left: 100px;
+}
+
+ img{
+ 	width: 200px;
+ 	border: 3px solid #0b0;
+ 	position: absolute;
+ }
+ 
+ 
+ .contenedor{
+ 	border:3px solid #000;
+ }
+ .prop{
+ 	margin-right: 0;
+ 	margin-top: 5%;
+ 	margin-left: 90%;
+ 	position: absolute;
+ }
+ .iz{
+ 	width: 25%;
+ 	height: 40%;
+ 	border: 3px solid #00A;
+	position: absolute;
+	margin-left: 0%
+ }
+ .cent{
+ 	width: 50%;
+ 	height: 40%;
+ 	border: 3px solid #00A;
+ 	position: absolute;	
+ 	margin-left: 25%;
+ 	overflow: scroll;
+ }
+ .der{
+ 	width: 25%;
+ 	height: 40%;
+ 	border: 3px solid #00A;
+ 	position: absolute;
+ 	margin-left: 75%;	
+ }
+ .titulo
+ {
+ 	border: 3px solid #AAA;
+ }
+ .titulo2
+ {
+ 	text-align: center;
+ }
